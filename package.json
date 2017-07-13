@@ -1,0 +1,11 @@
+{
+  "name": "service",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "bruce franchi",
+  "license": "MIT",
+  "dependencies": {
+    "geocodio": "^2.0.0",
+    "jasmine": "^2.6.0"
+  }
+}
