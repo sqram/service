@@ -18,10 +18,6 @@ catch (e)
 
 
 
-
-
-
-
 class Polygon
 {
 
@@ -118,13 +114,8 @@ class Polygon
       }
       cc = i;
     }
-
     return isOdd
   }
-
-
-
-
 }
 
 
@@ -152,4 +143,3 @@ polygon.fetchCoordsFromAPI( addresses )
   .catch(function() {
     throw 'Could not fetch from API'
   })
-
