@@ -131,8 +131,6 @@ catch (e)
 }
 
 
-console.log('OPEN ', file_contents)
-
 // Get input data from file
 var file_lines = file_contents.split("\n")
 
